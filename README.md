@@ -22,14 +22,6 @@ I love music 🎵, video games 🎮, movies 🎬, and parkour 🤸‍♂️. I v
 * **Systems and Computing Engineering**\
     Universidad EIA (2024-Present) 👨‍🎓
 
-### Work Experience 💼
-* **Full Stack Developer**\
-    Concept BPO, Medellín (2024-2025)\
-    Experience in programming with:
-    * JavaScript 🚀
-    * PHP 🐘
-    * Java ☕
-    Website design 🌐 and SQL databases 🗄️.
 
 ### Skills 🛠️
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
