@@ -33,19 +33,7 @@ Beyond coding, I enjoy music 🎵, gaming 🎮, cinema 🎬, and practicing park
 
 - **BSc. in Systems and Computing Engineering**  
   Universidad EIA (2024–Present)
-
----
-
-### 💼 Work Experience
-
-**Full-Stack Developer**  
-*Concept BPO – Medellín, Colombia (2024–2025)*  
-- Developed and maintained full-stack applications using JavaScript, PHP, and Java.  
-- Built dynamic websites and managed databases using SQL.  
-- Collaborated with cross-functional teams and applied agile methodologies.  
-- Self-taught many of the tools and frameworks used in real-world projects.  
-- Also participated in independent projects across different disciplines to broaden my professional perspective.
-
+  
 ---
 
 ### 🛠️ Technical Skills
@@ -60,20 +48,6 @@ Beyond coding, I enjoy music 🎵, gaming 🎮, cinema 🎬, and practicing park
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Tools & Platforms
-- RESTful APIs (PHP & TypeScript)
-- AWS (Basic knowledge)
-- Packet Tracer (Networks Simulation)
-- Data Analysis with Python
-
----
-
-### 🌍 Languages
-- **Spanish** – Native  
-- **English** – Intermediate  
-- **French** – Basic  
-
----
 
 ### 📫 Let's Connect
 If you’re looking for a dedicated developer who loves to learn, grow, and contribute — let’s get in touch!
