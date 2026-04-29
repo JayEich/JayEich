@@ -7,7 +7,7 @@
 ### 📍 Contact
 - **Location:** Medellín, Colombia 🇨🇴  
 - **Email:** [jc.jader14@gmail.com](mailto:jc.jader14@gmail.com)  
-- **Phone:** +57 319 298 7401  
+- **Phone:** +57 3044920337  
 
 ---
 
